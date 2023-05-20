@@ -1,5 +1,4 @@
 body{
-    padding:50px 0px 0px 0px;
     z-index:0;
 }
 
@@ -44,4 +43,3 @@ address{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
-
